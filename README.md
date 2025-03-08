@@ -1,2 +1,2 @@
-# johnbikes-johnbikes.github.io
+# johnbikes.github.io
 An attempt at a github page
